@@ -1,0 +1,19 @@
+{
+  "name": "renderpropsexample",
+  "version": "1.0.0",
+  "description": "React example to compare 3 ways of code reuse: mixins, HoC, renderProps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tungnt-580/RenderPropsExample.git"
+  },
+  "author": "Tung Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tungnt-580/RenderPropsExample/issues"
+  },
+  "homepage": "https://github.com/tungnt-580/RenderPropsExample#readme"
+}
